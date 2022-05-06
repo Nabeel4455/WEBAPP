@@ -23,7 +23,7 @@ System.out.println(num+" is odd");
  
   public static void main(String[] args) {
     
-    int num1 = 25;
+    int num1 = 20;
     int num2 = 15;
 
     // create an object of Main
